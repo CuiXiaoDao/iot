@@ -160,7 +160,7 @@
 
         ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/127995/155075256439157_zh-CN.png)
 
-5.  使用`$rap deploy -s`命令，将SDK发布到Ruff开发板。
-
+5.  使用`$rap install`命令安装依赖。
+6.  使用`$rap deploy -s`命令，将SDK发布到Ruff开发板。
 Ruff开发板连网后，即可向物联网平台发送数据。
 
